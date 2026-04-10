@@ -1,5 +1,14 @@
 import type { Metadata } from "next";
+import { Cardo } from "next/font/google";
 import "./globals.css";
+
+const cardo = Cardo({
+  subsets: ["latin"],
+  weight: ["400", "700"],
+  style: ["normal", "italic"],
+  variable: "--font-cardo",
+  display: "swap",
+});
 
 export const metadata: Metadata = {
   title: "Chillout Surf Camp Taghazout | All-Inclusive from €499",
@@ -12,5 +21,9 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  return children;
+  return (
+    <html lang="en" className={cardo.variable}>
+      <body className="min-h-screen flex flex-col">{children}</body>
+    </html>
+  );
 }
