@@ -1,0 +1,33 @@
+@import "tailwindcss";
+@source "../components";
+@source "../app";
+@source "../lib";
+
+@theme inline {
+  --color-primary: #2563EB;
+  --color-primary-dark: #1d4ed8;
+  --color-accent: #FACC15;
+  --color-dark: #111827;
+  --color-gray: #6B7280;
+  --color-light: #F3F4F6;
+  --font-heading: var(--font-cardo), Georgia, serif;
+  --font-body: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-dark);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}

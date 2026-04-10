@@ -1,0 +1,245 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "packages": "Paquetes",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "badge": "CHILLOUT VIBES",
+    "heading": "€499 Chillout Surf Camp Taghazout",
+    "subheading": "Paquete Todo Incluido por SOLO €499",
+    "cta": "Reserva Tu Estancia"
+  },
+  "about": {
+    "title": "Surf Camp Taghazout Marruecos",
+    "description": "El Chillout Surf Camp Taghazout cuenta con un equipo amable con más de 15 años de experiencia en viajes de surf. Nuestros instructores de surf cualificados y experimentados ofrecen clases y guía de surf para todos los niveles, desde principiantes hasta surfistas intermedios y avanzados.",
+    "customizable": "Ofrecemos paquetes personalizables para individuos, parejas, grupos y familias."
+  },
+  "packages": {
+    "title": "Elige la oferta adecuada",
+    "bookNow": "Reservar Ahora",
+    "perPerson": "por persona",
+    "perFamily": "por familia",
+    "nights": "Noches",
+    "days": "Días",
+    "mostBooked": "Más Reservado",
+    "whatsIncluded": "Qué incluye",
+    "readyText": "¿Listo para las olas? Asegura tu plaza hoy.",
+    "items": {
+      "3-days-all-inclusive": {
+        "name": "3 Days All Inclusive",
+        "tagline": "Escapada Rápida",
+        "description": "Un primer contacto con la vida del surf en la bahía de Taghazout. Incluye alojamiento, todas las comidas, clases diarias de surf y alquiler de material para empezar en tan solo unos días.",
+        "includes": [
+          "3 noches de alojamiento",
+          "Todas las comidas: 3 desayunos, 3 almuerzos, 3 cenas",
+          "3 días × 2 horas de clases de surf",
+          "Traslados diarios a los spots de surf",
+          "Alquiler de traje de neopreno y tabla de surf",
+          "Acceso ilimitado al material de surf",
+          "Acceso a la terraza panorámica",
+          "WiFi gratuito",
+          "Acceso a la piscina"
+        ]
+      },
+      "5-days-all-inclusive": {
+        "name": "5 Days All Inclusive",
+        "tagline": "Escapada Perfecta",
+        "description": "Una versión más corta de nuestro paquete más vendido del surf camp Taghazout. Ideal para una escapada rápida con clases de surf, alquiler de material, pensión completa y visita al zoco de Agadir.",
+        "includes": [
+          "Recogida o entrega en aeropuerto/estación de autobuses de Agadir",
+          "5 noches de alojamiento",
+          "Todas las comidas durante 5 días",
+          "Clases diarias de surf de 2 horas durante 5 días",
+          "Traslados diarios a los spots de surf",
+          "Alquiler de neopreno y tabla + equipo ilimitado",
+          "1 clase de yoga",
+          "Visita al zoco y la ciudad de Agadir",
+          "Terraza panorámica, WiFi gratuito, piscina"
+        ]
+      },
+      "7-days-all-inclusive": {
+        "name": "7 Days All Inclusive",
+        "tagline": "Experiencia Surf en Marruecos",
+        "description": "La experiencia de surf definitiva en nuestro surf camp Taghazout. Incluye clases diarias de surf, pensión completa, traslado al aeropuerto, yoga y excursiones al Paradise Valley y al zoco.",
+        "includes": [
+          "Traslado aeropuerto/estación (recogida o entrega desde Agadir)",
+          "7 noches de alojamiento",
+          "Todas las comidas: desayuno, almuerzo y cena diarios",
+          "Clases diarias de surf de 2 horas (7 días)",
+          "Transporte diario a los spots de surf",
+          "Alquiler de neopreno y tabla durante la semana",
+          "Acceso ilimitado al equipo",
+          "2 sesiones de yoga por semana (60 min cada una)",
+          "Excursiones al Paradise Valley y al pueblo del aceite de argán",
+          "Visita al mercado tradicional de Agadir",
+          "Terraza panorámica con WiFi",
+          "Piscina"
+        ]
+      },
+      "surf-and-stay": {
+        "name": "Surf & Stay",
+        "tagline": "Viaje Independiente",
+        "description": "Libertad total en nuestro surf camp de Taghazout. Alojamiento con pensión completa y alquiler de material incluidos. Las clases no están incluidas para que puedas surfear a tu propio ritmo.",
+        "includes": [
+          "7 noches de alojamiento",
+          "21 comidas (desayuno, almuerzo y cena diarios)",
+          "1 noche de barbacoa",
+          "7 días de alquiler de neopreno",
+          "7 días de alquiler de tabla blanda (tablas duras +€5/día)",
+          "Acceso a la terraza panorámica",
+          "WiFi gratuito",
+          "Acceso a la piscina"
+        ]
+      },
+      "classic": {
+        "name": "Classic Surf Package",
+        "tagline": "Aventura Autónoma",
+        "description": "El equilibrio perfecto entre comodidad y surf en nuestro surf camp Taghazout. Incluye traslados a los spots, alquiler de material y pensión completa. Perfecto para surfistas independientes que solo quieren que la logística esté resuelta.",
+        "includes": [
+          "Recogida O entrega en el aeropuerto/estación de autobuses de Agadir",
+          "7 noches de alojamiento",
+          "7 desayunos, 7 almuerzos, 7 cenas",
+          "7 días de traslados a los spots de surf",
+          "7 días de alquiler de neopreno y tabla blanda",
+          "Uso ilimitado del equipo de surf",
+          "Terraza panorámica y WiFi gratuito",
+          "Acceso a la piscina"
+        ]
+      },
+      "premium": {
+        "name": "Premium Surf Package",
+        "tagline": "Experiencia de Primera",
+        "description": "La experiencia completa. Incluye quad ATV, viaje de surf a Imsouane, sesiones extra de yoga, sandboarding y todo lo que necesitas para una semana inolvidable en Marruecos.",
+        "includes": [
+          "Traslados de ida y vuelta al aeropuerto/estación de autobuses",
+          "7 noches de alojamiento",
+          "Todas las comidas (desayuno, almuerzo y cena diarios + noche de barbacoa)",
+          "6 días × 2 horas de clases de surf",
+          "Traslados diarios a los spots de surf",
+          "Alquiler de neopreno y tabla",
+          "Acceso ilimitado al equipo",
+          "5 sesiones de yoga por semana (1 hora cada una)",
+          "Excursión de 2 horas en ATV por la montaña",
+          "Viaje al pueblo de Imsouane",
+          "Visitas al Paradise Valley y al pueblo del aceite de argán",
+          "Recorrido por Agadir y el mercado tradicional",
+          "Terraza panorámica + WiFi",
+          "Piscina"
+        ]
+      },
+      "ultimate": {
+        "name": "Ultimate Surf Package",
+        "tagline": "Explorar & Surfear",
+        "description": "Lo mejor de todo en nuestro surf camp Taghazout. Visitas a Agadir y Essaouira, Imsouane, hoguera en la playa, clases, yoga y alojamiento con pensión completa en un paquete completo.",
+        "includes": [
+          "Traslados de ida y vuelta al aeropuerto/estación de autobuses",
+          "7 noches de alojamiento",
+          "Todas las comidas + noche de barbacoa",
+          "4 días × 2 horas de clases de surf",
+          "4 días de traslados a los spots de surf",
+          "Alquiler de neopreno + tabla de surf (4 días)",
+          "Acceso ilimitado al equipo",
+          "2 sesiones de yoga (1 hora cada una)",
+          "Viaje a Imsouane (famosa por sus largas olas)",
+          "Excursión a Essaouira Mogador",
+          "Hoguera en la playa",
+          "Visita a la ciudad de Agadir y al mercado tradicional",
+          "Excursión al Paradise Valley",
+          "Piscina + WiFi + terraza"
+        ]
+      },
+      "family": {
+        "name": "Family Surf Package",
+        "tagline": "Perfecto Para Familias",
+        "description": "Diseñado para familias que visitan nuestro surf camp Taghazout. Incluye pensión completa, clases privadas de surf, excursiones al Paradise Valley y una especial noche de barbacoa.",
+        "includes": [
+          "Traslado al aeropuerto o estación de autobuses",
+          "7 noches de alojamiento",
+          "Todas las comidas + noche de barbacoa",
+          "Clases diarias de surf de 2 horas (7 días)",
+          "Traslados diarios a los spots de surf",
+          "Alquiler de neopreno + tabla de surf",
+          "Acceso ilimitado al equipo",
+          "2 sesiones de yoga por semana (1 hora cada una)",
+          "Paradise Valley y pueblo del aceite de argán",
+          "Visitas a la ciudad de Agadir y al mercado tradicional",
+          "Terraza panorámica + WiFi",
+          "Piscina"
+        ]
+      }
+    }
+  },
+  "customPackage": {
+    "title": "Paquete Personalizado",
+    "description": "Si necesitas ayuda o quieres crear tu propio paquete de vacaciones de surf en Marruecos, escríbenos y estaremos encantados de ayudarte a planificarlo. Tanto si viajas solo, con amigos, en grupo o con tu pareja y familia, podemos diseñar una experiencia especial en el surf camp Taghazout para ti. ¡Di Aloha! 🙂",
+    "cta": "Contáctenos"
+  },
+  "reviews": {
+    "title": "Reseñas",
+    "subtitle": "Vea nuestras reseñas en",
+    "google": "Google",
+    "tripAdvisor": "TripAdvisor"
+  },
+  "gallery": {
+    "title": "Diarios de Surf en Marruecos",
+    "tabs": {
+      "surf": "Surf",
+      "accommodation": "Alojamiento",
+      "yoga": "Yoga",
+      "food": "Comida",
+      "vibes": "Ambiente y Actividades"
+    }
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "subtitle": "Estamos aquí para ayudarte a planificar tu viaje perfecto.",
+    "form": {
+      "firstName": "Nombre",
+      "lastName": "Apellidos",
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "message": "Mensaje",
+      "submit": "Enviar Mensaje",
+      "sending": "Enviando...",
+      "success": "¡Gracias! Nos pondremos en contacto contigo pronto.",
+      "error": "Algo ha salido mal. Por favor, inténtalo de nuevo.",
+      "required": "Este campo es obligatorio.",
+      "invalidEmail": "Por favor, introduce una dirección de correo electrónico válida.",
+      "messageTooShort": "El mensaje debe tener al menos 10 caracteres.",
+      "consent": "Acepto el procesamiento de mis datos personales de acuerdo con los",
+      "termsLink": "Términos y Condiciones",
+      "consentRequired": "Debe aceptar los términos"
+    },
+    "info": {
+      "email": "booking@chilloutsurf.com",
+      "phone": "+212 715 511 910",
+      "address": "Taghazout Bay 800023, Marruecos",
+      "whatsapp": "Chatear por WhatsApp"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "readMore": "Leer Más"
+  },
+  "terms": {
+    "title": "Términos y Condiciones"
+  },
+  "footer": {
+    "description": "Vive el mejor surf de Marruecos con nuestros guías expertos y un alojamiento cómodo. Hacemos que tus vacaciones sean inolvidables.",
+    "quickLinks": "Enlaces Rápidos",
+    "contactTitle": "Contacto",
+    "legal": "Legal",
+    "termsLink": "Términos y Condiciones",
+    "privacyPolicy": "Política de Privacidad",
+    "securePayments": "Pagos Seguros",
+    "paypal": "Pagos seguros via PayPal",
+    "copyright": "Todos los derechos reservados."
+  },
+  "cookie": {
+    "message": "Utilizamos cookies para mejorar tu experiencia.",
+    "accept": "Aceptar",
+    "decline": "Rechazar"
+  }
+}

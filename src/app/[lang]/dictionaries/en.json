@@ -1,0 +1,245 @@
+{
+  "nav": {
+    "home": "Home",
+    "packages": "Packages",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "CHILLOUT VIBES",
+    "heading": "€499 Chillout Surf Camp Taghazout",
+    "subheading": "All-In Package For ONLY €499",
+    "cta": "Book Your Stay"
+  },
+  "about": {
+    "title": "Surf Camp Taghazout Morocco",
+    "description": "Chillout Surf Camp Taghazout has a friendly team with over 15 years of experience in surf travel. Our qualified and experienced surf instructors provide surf lessons and surf guiding for all surf levels including beginners, intermediate and advanced surfers.",
+    "customizable": "We offer customizable packages for individuals, couples, groups, and families."
+  },
+  "packages": {
+    "title": "Choose the suitable offer",
+    "bookNow": "Book Now",
+    "perPerson": "per person",
+    "perFamily": "per family",
+    "nights": "Nights",
+    "days": "Days",
+    "mostBooked": "Most Booked",
+    "whatsIncluded": "What's Included",
+    "readyText": "Ready for the waves? Secure your spot today.",
+    "items": {
+      "3-days-all-inclusive": {
+        "name": "3 Days All Inclusive",
+        "tagline": "Quick Escape",
+        "description": "A quick taste of the surf life in Taghazout Bay. Includes accommodation, all meals, daily surf lessons, and equipment rental to get you started in just a few days.",
+        "includes": [
+          "3 nights accommodation",
+          "All meals: 3 breakfasts, 3 lunches, 3 dinners",
+          "3 days × 2 hours surf instruction",
+          "Daily transfers to surf spots",
+          "Wetsuit and surfboard rental",
+          "Unlimited access to surf equipment",
+          "Panoramic terrace access",
+          "Free WiFi",
+          "Swimming pool access"
+        ]
+      },
+      "5-days-all-inclusive": {
+        "name": "5 Days All Inclusive",
+        "tagline": "Perfect Getaway",
+        "description": "A shorter version of our bestseller surf camp Taghazout package. Perfect for a quick getaway with surf lessons, equipment rental, full board meals, and a visit to the Agadir Souk.",
+        "includes": [
+          "Airport/bus station pickup or drop-off in Agadir",
+          "5 nights accommodation",
+          "All meals for 5 days",
+          "2-hour daily surf lessons for 5 days",
+          "Daily transfers to surf spots",
+          "Wetsuit and surfboard rental + unlimited equipment",
+          "1 yoga class",
+          "Visit to Agadir Souk & City",
+          "Panoramic terrace, free WiFi, swimming pool"
+        ]
+      },
+      "7-days-all-inclusive": {
+        "name": "7 Days All Inclusive",
+        "tagline": "Morocco Surf Experience",
+        "description": "The ultimate surf experience at our surf camp Taghazout. Includes daily surf lessons, full board meals, airport transfer, yoga, and excursions to Paradise Valley and the Souk.",
+        "includes": [
+          "Airport/station transfer (pickup or drop-off from Agadir)",
+          "7 nights accommodation",
+          "All meals: breakfast, lunch, dinner daily",
+          "2-hour daily surf instruction (7 days)",
+          "Daily transport to surf spots",
+          "Wetsuit and board rental for the week",
+          "Unrestricted equipment access",
+          "2 yoga sessions per week (60 min each)",
+          "Excursions to Paradise Valley and argan oil village",
+          "Visit to Agadir traditional market",
+          "Panoramic terrace with WiFi",
+          "Swimming pool"
+        ]
+      },
+      "surf-and-stay": {
+        "name": "Surf & Stay",
+        "tagline": "Independent Travel",
+        "description": "Freedom to explore at our Taghazout surf camp. Accommodation with full board meals and equipment rental included. Lessons aren't included, giving you flexibility to surf at your own pace.",
+        "includes": [
+          "7 nights accommodation",
+          "21 meals (breakfast, lunch, dinner daily)",
+          "1 BBQ night",
+          "7 days wetsuit rental",
+          "7 days soft board rental (hard boards +€5/day)",
+          "Panoramic terrace access",
+          "Free WiFi",
+          "Swimming pool access"
+        ]
+      },
+      "classic": {
+        "name": "Classic Surf Package",
+        "tagline": "Self-Guided Adventure",
+        "description": "Balance of comfort and surfing at our surf camp Taghazout. Includes spot transfers, equipment rental, and full board. Perfect for independent surfers who just need logistics handled.",
+        "includes": [
+          "Agadir Airport/Bus Station Pick Up OR Drop Off",
+          "7 nights accommodation",
+          "7 breakfasts, 7 lunches, 7 dinners",
+          "7 days surf spots transfers",
+          "7 days wetsuit & soft board rental",
+          "Unlimited use of surf equipment",
+          "Panoramic terrace and free WiFi",
+          "Swimming pool access"
+        ]
+      },
+      "premium": {
+        "name": "Premium Surf Package",
+        "tagline": "Top Tier Experience",
+        "description": "The full experience. Includes ATV Quad Biking, Imsouane surf trip, extra yoga sessions, sandboarding, and everything you need for an unforgettable week in Morocco.",
+        "includes": [
+          "Round-trip airport/bus station transfers",
+          "7 nights accommodation",
+          "All meals (breakfast, lunch, dinner daily + BBQ night)",
+          "6 days × 2-hour surf instruction",
+          "Daily transfers to surf spots",
+          "Wetsuit and board rentals",
+          "Unlimited equipment access",
+          "5 yoga sessions per week (1 hour each)",
+          "2-hour ATV mountain excursion",
+          "Imsouane village trip",
+          "Paradise Valley and Argan Oil Village visits",
+          "Agadir City and traditional market tours",
+          "Panoramic terrace + WiFi",
+          "Swimming pool"
+        ]
+      },
+      "ultimate": {
+        "name": "Ultimate Surf Package",
+        "tagline": "Explore & Surf",
+        "description": "The best of everything at our surf camp Taghazout. Trips to Agadir & Essaouira, Imsouane, beach bonfire, lessons, yoga, and full board accommodation in one massive package.",
+        "includes": [
+          "Round-trip airport/bus station transfers",
+          "7 nights accommodation",
+          "All meals + BBQ night",
+          "4 days × 2-hour surf lessons",
+          "4 days surf spots transfers",
+          "Wetsuit + surfboard rental (4 days)",
+          "Unlimited equipment access",
+          "2 yoga sessions (1 hour each)",
+          "Imsouane trip (famous for long waves)",
+          "Essaouira Mogador trip",
+          "Beach bonfire",
+          "Agadir city and traditional market visit",
+          "Paradise Valley excursion",
+          "Swimming pool + WiFi + terrace"
+        ]
+      },
+      "family": {
+        "name": "Family Surf Package",
+        "tagline": "Perfect For Families",
+        "description": "Designed for families visiting our surf camp Taghazout. Includes full board, private surf lessons, excursions to Paradise Valley, and a special BBQ night.",
+        "includes": [
+          "Airport/bus station transfer",
+          "7 nights accommodation",
+          "All meals + BBQ night",
+          "2-hour daily surf lessons (7 days)",
+          "Daily transfers to surf spots",
+          "Wetsuit + surfboard rental",
+          "Unlimited equipment access",
+          "2 yoga sessions per week (1 hour each)",
+          "Paradise Valley and Argan Oil Village",
+          "Agadir City and traditional market visits",
+          "Panoramic terrace + WiFi",
+          "Swimming pool"
+        ]
+      }
+    }
+  },
+  "customPackage": {
+    "title": "Custom Package",
+    "description": "If you need any help or want to create your own Morocco surf holiday package, just drop us a line and we would be delighted to help you plan. Whether you are travelling solo, with friends, in a big group or with your partner and family, we can customise a special surf camp Taghazout experience for you. Just Say Aloha! 🙂",
+    "cta": "Contact Us"
+  },
+  "reviews": {
+    "title": "Reviews",
+    "subtitle": "See our reviews on",
+    "google": "Google",
+    "tripAdvisor": "TripAdvisor"
+  },
+  "gallery": {
+    "title": "Morocco Surf Diaries",
+    "tabs": {
+      "surf": "Surf",
+      "accommodation": "Accommodation",
+      "yoga": "Yoga",
+      "food": "Food",
+      "vibes": "Vibes & Activities"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are here to help you plan your perfect trip.",
+    "form": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Thank you! We'll get back to you soon.",
+      "error": "Something went wrong. Please try again.",
+      "required": "This field is required.",
+      "invalidEmail": "Please enter a valid email address.",
+      "messageTooShort": "Message must be at least 10 characters.",
+      "consent": "I agree to the processing of my personal data in accordance with the",
+      "termsLink": "Terms and Conditions",
+      "consentRequired": "You must agree to the terms"
+    },
+    "info": {
+      "email": "booking@chilloutsurf.com",
+      "phone": "+212 715 511 910",
+      "address": "Taghazout Bay 800023, Morocco",
+      "whatsapp": "Chat on WhatsApp"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "readMore": "Read More"
+  },
+  "terms": {
+    "title": "Terms and Conditions"
+  },
+  "footer": {
+    "description": "Experience the best surf in Morocco with our expert guides and comfortable accommodation. We make your holiday unforgettable.",
+    "quickLinks": "Quick Links",
+    "contactTitle": "Contact",
+    "legal": "Legal",
+    "termsLink": "Terms and Conditions",
+    "privacyPolicy": "Privacy Policy",
+    "securePayments": "Secure Payments",
+    "paypal": "Secure payments via PayPal",
+    "copyright": "All rights reserved."
+  },
+  "cookie": {
+    "message": "We use cookies to improve your experience.",
+    "accept": "Accept",
+    "decline": "Decline"
+  }
+}
